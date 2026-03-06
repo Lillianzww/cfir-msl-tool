@@ -4,7 +4,8 @@
 
 ## 点击下载使用
 
-👉 **[点击直接使用工具](https://lillianzww.github.io/cfir-msl-tool/)**
+👉 **[点击直接使用工具](https://github.com/Lillianzww/cfir-msl-tool/blob/main/cfir-msl-analyzer.html
+)**
 
 ## 功能特点
 
